@@ -1,5 +1,5 @@
 class ApiConfig {
-  static String base_url = 'http://139.59.145.86:7001';
+  static String base_url = 'URL';
   static String login = '$base_url/api/v1/login';
   static String supplierListing = '$base_url/api/v1/clients/suppliers';
   static String clientListing = '$base_url/api/v1/users/clients';
